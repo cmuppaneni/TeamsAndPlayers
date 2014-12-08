@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  playerName: MyString
+  ExpertIn: MyString
+  Team_id: 
+
+two:
+  playerName: MyString
+  ExpertIn: MyString
+  Team_id: 
